@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Aafiya!
 
-I am a fullstack developer and Data Science Enthusiast. 
+I am a Research Intern at Madan Bhandari University of Science and Technology, and a Fullstack Developer. Currently, I am working on Multimodal Deep Learning and Fairness in AI. Previously, I have worked on Abstractive Text Summarization, and Question Generation.
 
 ## Languages:
 <p>
