@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Aafiya!
 
-I am a Research Intern at Madan Bhandari University of Science and Technology, and a Fullstack Developer. Currently, I am working on Multimodal Deep Learning and Fairness in AI. Previously, I have worked on Abstractive Text Summarization, and Question Generation.
+I am an MS CS student at Virginia Tech, currently working on adversarial attacks in multimodal large language models under the guidance of Dr. Chris Thomas. Previously, I have worked on Natural Language Processing, Fairness in LLMs and Audio Processing.
 
 ## Languages:
 <p>
