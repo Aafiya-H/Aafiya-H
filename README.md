@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Aafiya!
 
-I am an MS CS student at Virginia Tech, currently working on adversarial attacks in multimodal large language models under the guidance of Dr. Chris Thomas. Previously, I have worked on Natural Language Processing, Fairness in LLMs and Audio Processing.
+I am an MS CS student at Virginia Tech, working with Dr. Chris Thomas on adversarial attacks in multimodal large language models. Previously, I have worked on Natural Language Processing, Fairness in LLMs and Audio Processing.
 
 ## Languages:
 <p>
